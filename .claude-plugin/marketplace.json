@@ -1,0 +1,17 @@
+{
+  "name": "housejet-vibe-editing",
+  "owner": {
+    "name": "HouseJet",
+    "url": "https://github.com/clay624/housejet-vibe-editing"
+  },
+  "metadata": {
+    "description": "HouseJet Vibe Editing: an AI short-form clip editor for real estate agents, for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "vibe-editing",
+      "source": "./plugins/vibe-editing",
+      "description": "Raw footage -> finished vertical clips (/edit) + horizontal subscriber-growth mids (/highlight). Reframe, caption, render, and a 6-gate self-audit. Optional Frame.io + Monday review delivery (/monday) with guided setup."
+    }
+  ]
+}
