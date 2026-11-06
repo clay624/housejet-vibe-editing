@@ -47,4 +47,6 @@ Every clip follows [`HOUSEJET.md`](HOUSEJET.md): Fair Housing checks, your broke
 
 ## Credits
 
+Agent guide (PDF): [HouseJet-Vibe-Editing-Guide.pdf](HouseJet-Vibe-Editing-Guide.pdf)
+
 Built by HouseJet on the open-source [vibe-editing](https://github.com/maddexritter-rgb/vibe-editing) kit (MIT License). See [`NOTICE.md`](NOTICE.md).
