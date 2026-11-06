@@ -12,6 +12,8 @@
 
 You talk to it in plain English through the Claude Code app. No editing software, no timeline, no terminal.
 
+<p align="center"><img src="docs/assets/demo.gif" alt="Typing 'make clips from this', the editor transcribes, finds the best moments, runs a Fair Housing check, then delivers captioned vertical clips" width="100%"></p>
+
 ## Set it up (about 15 minutes)
 
 1. Download the **Claude Code** app from [claude.com/claude-code](https://claude.com/claude-code) and sign in (paid Claude plan: Pro or Max).
