@@ -1,4 +1,10 @@
-<p align="center"><img src="docs/assets/housejet-logo.png" alt="HouseJet" width="320"></p>
+<p align="center"><img src="docs/assets/hero.png" alt="HouseJet Vibe Editing for Agents" width="100%"></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/built%20for-real%20estate%20agents-FF521C?style=flat-square" alt="Built for real estate agents">
+  <img src="https://img.shields.io/badge/runs%20in-Claude%20Code-0B0B0C?style=flat-square" alt="Runs in Claude Code">
+  <img src="https://img.shields.io/badge/license-MIT-0B0B0C?style=flat-square" alt="MIT license">
+</p>
 
 # Vibe Editing for Agents
 
